@@ -1,0 +1,206 @@
+/*set padding and margin for all html elements to 0*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;   
+}
+html{
+    font-family: "Lato","Arial",sans-serif;
+    font-size: 20px;
+    font-weight: 200;
+    text-rendering: optimizeLegibility; 
+}
+/*set row properties*/
+.row{
+    margin:0 auto 0 auto;
+    max-width: 680px;
+}
+/*........................................................................*/
+.image{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+    margin-top:10px;
+    margin-left: 30px;
+}
+h2{
+    font-size: 150%;
+}
+
+.pic-div{
+    margin-left:35px;
+}
+.name{
+    font-weight: 200;
+    margin: 0;
+    padding: 0;
+}
+.name2{
+    margin: 0;
+    padding: 0;
+}
+.job{
+    font-weight: 300;
+    font-size: 80%;
+    margin-left: 18px;
+}
+/*........................................................................*/
+.profile{
+    margin-top: 20px;
+}
+.cont{
+    color: blue;
+    font-size: 180%;
+    font-weight: 300;
+}
+.line{
+    display:inline-block;
+    background-color: blue;
+    width:140px;
+    height:2px;
+    margin-bottom: 6px;
+}
+.aboutme{
+    word-spacing: 2px;
+    letter-spacing: 1px;
+    line-height: 145%;
+    width:250px;
+    font-size:60%;
+}
+/*........................................................................*/
+span{
+    color: blue;
+    font-weight: 400;
+    font-size: 110%;
+    padding-left: 5px;
+}
+.date{
+    font-size:80%;
+    color: black;
+}
+#phone{
+    color:#fff;
+    border-radius: 50%;
+    font-size: 120%;
+    background-color:blue;
+    height: 20px;
+    width: auto;
+    padding: 1%; 
+}
+.contact{
+    margin-top: 10px;
+}
+.list{
+    list-style: none;
+    margin-top: 5px;
+    margin-right: 10px;
+    
+}
+.list p{
+    font-size: 70%;
+    padding: 8px;
+    
+}
+.blue{
+    color: blue;
+
+}
+/*........................................................................*/
+#bulb{
+    color:#fff;
+    border-radius: 50%;
+    font-size: 100%;
+    background-color:blue;
+    height: 30px;
+    width: auto;
+    padding: 2%;
+}
+#lineb{
+    width:175px;
+}
+.lightblue{
+    color:rgba(0, 0, 255, 0.829);
+}
+.grey{
+    color:rgb(167, 166, 166);
+}
+.part{
+    margin-top:5px;
+    margin-bottom: 5px;
+}
+.title{
+    font-size: 90%;
+    margin-left:70px;
+}
+.rows{
+    margin-left: 20px;
+}
+.title2{
+    font-size: 90%;
+    margin-left:60px;
+}
+.title3{
+    font-size: 90%;
+    margin-left:60px;
+}
+.title4{
+    font-size: 90%;
+    margin-left:40px;
+}
+/*........................................................................*/
+#star{
+    color:#fff;
+    border-radius: 50%;
+    font-size: 100%;
+    background-color:blue;
+    height: 30px;
+    width: auto;
+    padding: 2%;
+}
+.education,.experience,.projects,.software{
+    margin-top:15px;
+}
+.list2{
+    margin-top:10px;
+}
+.uni{
+    margin-top:5px;
+    font-size: 70%;
+    margin-left: 3px;
+}
+.exp{
+    color:black;
+    font-weight: 400px;
+    font-size: 90%;
+    margin-top:5px;
+}
+/*........................................................................*/
+.container{
+    width:80%;
+    background-color: #ddd;
+}
+.skills{
+    text-align: right;
+    padding: 10px;
+    color: white;
+}
+.java{
+    width:90%;
+    background-color: blue;
+}
+.c{
+    width:60%;
+    background-color: blue;
+}
+.html-css{
+    width:80%;
+    background-color: blue;
+}
+.uml{
+    width:70%;
+    background-color: blue;
+}
+.DA{
+    width:50%;
+    background-color: blue;
+}
