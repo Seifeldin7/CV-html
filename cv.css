@@ -50,7 +50,7 @@ h2{
 }
 .cont{
     color: blue;
-    font-size: 180%;
+    font-size: 170%;
     font-weight: 300;
 }
 .line{
@@ -81,11 +81,10 @@ span{
 #phone{
     color:#fff;
     border-radius: 50%;
-    font-size: 120%;
+    font-size: 90%;
     background-color:blue;
-    height: 20px;
-    width: auto;
-    padding: 1%; 
+    
+    padding: 7px; 
 }
 .contact{
     margin-top: 10px;
@@ -109,11 +108,9 @@ span{
 #bulb{
     color:#fff;
     border-radius: 50%;
-    font-size: 100%;
+    font-size: 90%;
     background-color:blue;
-    height: 30px;
-    width: auto;
-    padding: 2%;
+    padding: 7px;
 }
 #lineb{
     width:175px;
@@ -151,11 +148,9 @@ span{
 #star{
     color:#fff;
     border-radius: 50%;
-    font-size: 100%;
+    font-size: 90%;
     background-color:blue;
-    height: 30px;
-    width: auto;
-    padding: 2%;
+    padding: 7px;
 }
 .education,.experience,.projects,.software{
     margin-top:15px;
